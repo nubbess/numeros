@@ -26,5 +26,5 @@ console.log(esIgual);
 // o, agregando, porque la consigna dice si...
 
 if (maxval + 1 === maxval) {
-  console.log("es igual")
+  console.log("es igual");
 };
