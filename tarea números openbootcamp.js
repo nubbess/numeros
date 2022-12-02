@@ -27,4 +27,4 @@ console.log(esIgual);
 
 if (maxval + 1 === maxval) {
   console.log("es igual")
-}
+};
